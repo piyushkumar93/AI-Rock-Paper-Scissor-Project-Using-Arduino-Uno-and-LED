@@ -1,2 +1,4 @@
-smiling
-not smiling
+0 paper
+1 rock
+2 scissor
+3 Normal
